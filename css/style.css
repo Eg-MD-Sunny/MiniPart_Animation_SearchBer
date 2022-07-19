@@ -3,7 +3,6 @@
 /* entypo */
 [class*="entypo-"]:before {
   font-family: "entypo", sans-serif;
-  /*color: #C0C0C0;*/
 }
 
 * {
@@ -54,7 +53,6 @@ input {
   height: 25px;
   font-size: 15px;
   margin-left: 30px;
-  /* margin-top: 3px; */
   line-height: 30px;
 }
 
